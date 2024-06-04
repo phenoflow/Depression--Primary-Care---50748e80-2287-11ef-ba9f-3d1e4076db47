@@ -1,0 +1,498 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/affective-depression--primary-care---primary.py
+inputModule3:
+  class: File
+  path: python/depression--primary-care-xmajor---primary.py
+inputModule4:
+  class: File
+  path: python/current-depression--primary-care---primary.py
+inputModule5:
+  class: File
+  path: python/depression--primary-care-unspecied---primary.py
+inputModule6:
+  class: File
+  path: python/postviral-depression--primary-care---primary.py
+inputModule7:
+  class: File
+  path: python/depression--primary-care-moder---primary.py
+inputModule8:
+  class: File
+  path: python/other-depression--primary-care---primary.py
+inputModule9:
+  class: File
+  path: python/chronic-depression--primary-care---primary.py
+inputModule10:
+  class: File
+  path: python/depression-primary-care---primary.py
+inputModule11:
+  class: File
+  path: python/depression--primary-care-psychosis---primary.py
+inputModule12:
+  class: File
+  path: python/depression--primary-care-antidepre---primary.py
+inputModule13:
+  class: File
+  path: python/psychotic-depression--primary-care---primary.py
+inputModule14:
+  class: File
+  path: python/xantenatal-depression--primary-care---primary.py
+inputModule15:
+  class: File
+  path: python/depression--primary-care-reaction---primary.py
+inputModule16:
+  class: File
+  path: python/depression--primary-care-dysthymia---primary.py
+inputModule17:
+  class: File
+  path: python/depression--primary-care-episode---primary.py
+inputModule18:
+  class: File
+  path: python/depression--primary-care-agitated---primary.py
+inputModule19:
+  class: File
+  path: python/depression--primary-care-activ---primary.py
+inputModule20:
+  class: File
+  path: python/depression--primary-care-future---primary.py
+inputModule21:
+  class: File
+  path: python/depression---primary.py
+inputModule22:
+  class: File
+  path: python/depression--primary-care-enjoy---primary.py
+inputModule23:
+  class: File
+  path: python/depression--primary-care-depressed---primary.py
+inputModule24:
+  class: File
+  path: python/depression--primary-care-inter---primary.py
+inputModule25:
+  class: File
+  path: python/depression--primary-care-interim---primary.py
+inputModule26:
+  class: File
+  path: python/depression--primary-care-limbitrol---primary.py
+inputModule27:
+  class: File
+  path: python/depression--primary-care-225mg---primary.py
+inputModule28:
+  class: File
+  path: python/depression--primary-care-amitriptyl---primary.py
+inputModule29:
+  class: File
+  path: python/depression--primary-care-imipramine---primary.py
+inputModule30:
+  class: File
+  path: python/depression--primary-care-300mg---primary.py
+inputModule31:
+  class: File
+  path: python/depression--primary-care-pacitron---primary.py
+inputModule32:
+  class: File
+  path: python/depression--primary-care-foraven---primary.py
+inputModule33:
+  class: File
+  path: python/depression--primary-care-trixat---primary.py
+inputModule34:
+  class: File
+  path: python/depression--primary-care-tabx28---primary.py
+inputModule35:
+  class: File
+  path: python/depression--primary-care-nortriptyline---primary.py
+inputModule36:
+  class: File
+  path: python/depression--primary-care-mirtazapine---primary.py
+inputModule37:
+  class: File
+  path: python/depression--primary-care-citalopram---primary.py
+inputModule38:
+  class: File
+  path: python/depression--primary-care-bolvidon---primary.py
+inputModule39:
+  class: File
+  path: python/depression--primary-care-optimax---primary.py
+inputModule40:
+  class: File
+  path: python/depression--primary-care-duloxetine---primary.py
+inputModule41:
+  class: File
+  path: python/depression--primary-care-prozit---primary.py
+inputModule42:
+  class: File
+  path: python/depression--primary-care-tryptophan---primary.py
+inputModule43:
+  class: File
+  path: python/depression--primary-care-trimipramine---primary.py
+inputModule44:
+  class: File
+  path: python/depression--primary-care-sinequan---primary.py
+inputModule45:
+  class: File
+  path: python/depression--primary-care-reboxetine---primary.py
+inputModule46:
+  class: File
+  path: python/depression--primary-care-375mg---primary.py
+inputModule47:
+  class: File
+  path: python/depression--primary-care-triptafenm---primary.py
+inputModule48:
+  class: File
+  path: python/depression--primary-care-desipramine---primary.py
+inputModule49:
+  class: File
+  path: python/depression--primary-care-asendi---primary.py
+inputModule50:
+  class: File
+  path: python/depression--primary-care-gamanil---primary.py
+inputModule51:
+  class: File
+  path: python/depression--primary-care-fluoxetine---primary.py
+inputModule52:
+  class: File
+  path: python/depression--primary-care-allegron---primary.py
+inputModule53:
+  class: File
+  path: python/depression--primary-care-tryptizol---primary.py
+inputModule54:
+  class: File
+  path: python/depression--primary-care-cymbalta---primary.py
+inputModule55:
+  class: File
+  path: python/depression--primary-care-viepax---primary.py
+inputModule56:
+  class: File
+  path: python/depression--primary-care-edronax---primary.py
+inputModule57:
+  class: File
+  path: python/depression--primary-care-alventa---primary.py
+inputModule58:
+  class: File
+  path: python/depression--primary-care-trazodone---primary.py
+inputModule59:
+  class: File
+  path: python/depression--primary-care-butriptyline---primary.py
+inputModule60:
+  class: File
+  path: python/depression--primary-care-dosulepin---primary.py
+inputModule61:
+  class: File
+  path: python/depression--primary-care-vortioxetine---primary.py
+inputModule62:
+  class: File
+  path: python/depression--primary-care-500microgram---primary.py
+inputModule63:
+  class: File
+  path: python/depression--primary-care-sinepin---primary.py
+inputModule64:
+  class: File
+  path: python/depression--primary-care-500mg---primary.py
+inputModule65:
+  class: File
+  path: python/depression--primary-care-lomont---primary.py
+inputModule66:
+  class: File
+  path: python/depression--primary-care-amoxapine---primary.py
+inputModule67:
+  class: File
+  path: python/depression--primary-care-parnate---primary.py
+inputModule68:
+  class: File
+  path: python/depression--primary-care-vensir---primary.py
+inputModule69:
+  class: File
+  path: python/depression--primary-care-marplan---primary.py
+inputModule70:
+  class: File
+  path: python/lustral-depression--primary-care---primary.py
+inputModule71:
+  class: File
+  path: python/depression--primary-care-aventyl---primary.py
+inputModule72:
+  class: File
+  path: python/depression--primary-care-200mg---primary.py
+inputModule73:
+  class: File
+  path: python/depression--primary-care-viloxazine---primary.py
+inputModule74:
+  class: File
+  path: python/depression--primary-care-gastroresistant---primary.py
+inputModule75:
+  class: File
+  path: python/depression--primary-care-suspension---primary.py
+inputModule76:
+  class: File
+  path: python/depression--primary-care-elavil---primary.py
+inputModule77:
+  class: File
+  path: python/depression--primary-care-cipralex---primary.py
+inputModule78:
+  class: File
+  path: python/depression--primary-care-norval---primary.py
+inputModule79:
+  class: File
+  path: python/tonpular-depression--primary-care---primary.py
+inputModule80:
+  class: File
+  path: python/depression--primary-care-seroxat---primary.py
+inputModule81:
+  class: File
+  path: python/domical-depression--primary-care---primary.py
+inputModule82:
+  class: File
+  path: python/venlalic-depression--primary-care---primary.py
+inputModule83:
+  class: File
+  path: python/depression--primary-care-tifaxin---primary.py
+inputModule84:
+  class: File
+  path: python/depression--primary-care-prepadine---primary.py
+inputModule85:
+  class: File
+  path: python/depression--primary-care-surmontil---primary.py
+inputModule86:
+  class: File
+  path: python/depression--primary-care-paxoran---primary.py
+inputModule87:
+  class: File
+  path: python/depression--primary-care-molipaxin---primary.py
+inputModule88:
+  class: File
+  path: python/iproniazid-depression--primary-care---primary.py
+inputModule89:
+  class: File
+  path: python/depression--primary-care-treat---primary.py
+inputModule90:
+  class: File
+  path: python/depression--primary-care-dutonin---primary.py
+inputModule91:
+  class: File
+  path: python/depression--primary-care-paroxetine---primary.py
+inputModule92:
+  class: File
+  path: python/depression--primary-care-flupentixol---primary.py
+inputModule93:
+  class: File
+  path: python/depression--primary-care-inhibitor---primary.py
+inputModule94:
+  class: File
+  path: python/depression--primary-care-brintellix---primary.py
+inputModule95:
+  class: File
+  path: python/depression--primary-care-venladex---primary.py
+inputModule96:
+  class: File
+  path: python/depression--primary-care-x56cp---primary.py
+inputModule97:
+  class: File
+  path: python/marsilid-depression--primary-care---primary.py
+inputModule98:
+  class: File
+  path: python/depression--primary-care-manerix---primary.py
+inputModule99:
+  class: File
+  path: python/depression--primary-care-sunveniz---primary.py
+inputModule100:
+  class: File
+  path: python/depression--primary-care-venlafaxine---primary.py
+inputModule101:
+  class: File
+  path: python/depression--primary-care-concordin---primary.py
+inputModule102:
+  class: File
+  path: python/depression--primary-care-depefex---primary.py
+inputModule103:
+  class: File
+  path: python/depression--primary-care-ranflutin---primary.py
+inputModule104:
+  class: File
+  path: python/depression--primary-care-olena---primary.py
+inputModule105:
+  class: File
+  path: python/depression--primary-care-tranquax---primary.py
+inputModule106:
+  class: File
+  path: python/depression--primary-care-phenelzine---primary.py
+inputModule107:
+  class: File
+  path: python/depression--primary-care-dothapax---primary.py
+inputModule108:
+  class: File
+  path: python/depression--primary-care-vivalan---primary.py
+inputModule109:
+  class: File
+  path: python/depression--primary-care-venaxx---primary.py
+inputModule110:
+  class: File
+  path: python/depression--primary-care-cipramil---primary.py
+inputModule111:
+  class: File
+  path: python/depression--primary-care-yentreve---primary.py
+inputModule112:
+  class: File
+  path: python/depression--primary-care-powder---primary.py
+inputModule113:
+  class: File
+  path: python/depression--primary-care-iprindole---primary.py
+inputModule114:
+  class: File
+  path: python/depression--primary-care-moclobemide---primary.py
+inputModule115:
+  class: File
+  path: python/depression--primary-care-tofranil---primary.py
+inputModule116:
+  class: File
+  path: python/depression--primary-care-prozac---primary.py
+inputModule117:
+  class: File
+  path: python/depression--primary-care-feprapax---primary.py
+inputModule118:
+  class: File
+  path: python/depression--primary-care-tardcap---primary.py
+inputModule119:
+  class: File
+  path: python/depression--primary-care-efexor---primary.py
+inputModule120:
+  class: File
+  path: python/depression--primary-care-500mcg---primary.py
+inputModule121:
+  class: File
+  path: python/depression--primary-care-praminil---primary.py
+inputModule122:
+  class: File
+  path: python/depression--primary-care-pertofran---primary.py
+inputModule123:
+  class: File
+  path: python/depression--primary-care-prothiaden---primary.py
+inputModule124:
+  class: File
+  path: python/depression--primary-care-injection---primary.py
+inputModule125:
+  class: File
+  path: python/depression--primary-care-doxepin---primary.py
+inputModule126:
+  class: File
+  path: python/depression--primary-care-vexarin---primary.py
+inputModule127:
+  class: File
+  path: python/depression--primary-care-nefazodone---primary.py
+inputModule128:
+  class: File
+  path: python/depression--primary-care-felicium---primary.py
+inputModule129:
+  class: File
+  path: python/depression--primary-care-tranylcypromine---primary.py
+inputModule130:
+  class: File
+  path: python/depression--primary-care-protriptyline---primary.py
+inputModule131:
+  class: File
+  path: python/depression--primary-care-lofepramine---primary.py
+inputModule132:
+  class: File
+  path: python/depression--primary-care-motival---primary.py
+inputModule133:
+  class: File
+  path: python/depression--primary-care-capacity---primary.py
+inputModule134:
+  class: File
+  path: python/depression--primary-care-winfex---primary.py
+inputModule135:
+  class: File
+  path: python/depression--primary-care-sertraline---primary.py
+inputModule136:
+  class: File
+  path: python/depression--primary-care-syrup---primary.py
+inputModule137:
+  class: File
+  path: python/depression--primary-care-mianserin---primary.py
+inputModule138:
+  class: File
+  path: python/depression--primary-care-vaxalin---primary.py
+inputModule139:
+  class: File
+  path: python/depression--primary-care-faverin---primary.py
+inputModule140:
+  class: File
+  path: python/depression--primary-care-bonilux---primary.py
+inputModule141:
+  class: File
+  path: python/depression--primary-care-x84cp---primary.py
+inputModule142:
+  class: File
+  path: python/depression--primary-care-anafranil---primary.py
+inputModule143:
+  class: File
+  path: python/depression--primary-care-ranfaxine---primary.py
+inputModule144:
+  class: File
+  path: python/depression--primary-care-thaden---primary.py
+inputModule145:
+  class: File
+  path: python/depression--primary-care-ludiomil---primary.py
+inputModule146:
+  class: File
+  path: python/depression--primary-care-agomelatine---primary.py
+inputModule147:
+  class: File
+  path: python/depression--primary-care-rodomel---primary.py
+inputModule148:
+  class: File
+  path: python/depression--primary-care-evadyne---primary.py
+inputModule149:
+  class: File
+  path: python/depression--primary-care-fluanxol---primary.py
+inputModule150:
+  class: File
+  path: python/depression--primary-care-oxactin---primary.py
+inputModule151:
+  class: File
+  path: python/depression--primary-care-parstelin---primary.py
+inputModule152:
+  class: File
+  path: python/depression--primary-care-motipress---primary.py
+inputModule153:
+  class: File
+  path: python/tricyclic-depression--primary-care---primary.py
+inputModule154:
+  class: File
+  path: python/depression--primary-care-maleate---primary.py
+inputModule155:
+  class: File
+  path: python/isocarboxazid-depression--primary-care---primary.py
+inputModule156:
+  class: File
+  path: python/depression--primary-care-maprotiline---primary.py
+inputModule157:
+  class: File
+  path: python/depression--primary-care-lentizol---primary.py
+inputModule158:
+  class: File
+  path: python/depression--primary-care-nardil---primary.py
+inputModule159:
+  class: File
+  path: python/depression--primary-care-valdoxan---primary.py
+inputModule160:
+  class: File
+  path: python/depression--primary-care-prozep---primary.py
+inputModule161:
+  class: File
+  path: python/depression--primary-care-prondol---primary.py
+inputModule162:
+  class: File
+  path: python/depression--primary-care-medication---primary.py
+inputModule163:
+  class: File
+  path: python/annual-depression--primary-care---primary.py
+inputModule164:
+  class: File
+  path: python/depression--primary-care-register---primary.py
+inputModule165:
+  class: File
+  path: python/output-cases.py
